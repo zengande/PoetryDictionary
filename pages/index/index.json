@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "datecord": "../../components/datecord/index"
+    }
+}
