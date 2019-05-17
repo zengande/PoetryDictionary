@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SmartSql.Bulk.MySql" Version="4.0.46" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PoetryDictionary.Database\PoetryDictionary.Database.csproj" />
+    <ProjectReference Include="..\PoetryDictionary.Repository\PoetryDictionary.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

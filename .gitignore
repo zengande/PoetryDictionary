@@ -3,3 +3,11 @@
 ################################################################################
 
 /src/PoetryDictionary.API/bin/Debug/netcoreapp3.0
+/src/PoetryDictionary.API/obj
+/src/PoetryDictionary.Database/bin/Debug/netstandard2.0
+/src/PoetryDictionary.Database/obj
+/src/PoetryDictionary.Repository/bin/Debug/netstandard2.0
+/src/PoetryDictionary.Repository/obj
+/src/PoetryDictionary.Service/bin/Debug/netstandard2.0
+/src/PoetryDictionary.Service/obj
+/.vs/PoetryDictionary

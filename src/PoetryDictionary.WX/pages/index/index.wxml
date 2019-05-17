@@ -1,0 +1,4 @@
+<!-- index.wxml -->
+<view class="container">
+    <datecord class="cards" dates="{{dates}}"/>
+</view>
